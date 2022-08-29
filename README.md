@@ -1,2 +1,4 @@
 # ET4028-IDS-Snort
-A configuration of Snort rules for three different forms of attack on a machine.
+An individual assignment to configure Snort rules for three different forms of attack on a machine.
+
+### Grade: 14/15

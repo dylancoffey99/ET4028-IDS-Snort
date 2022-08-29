@@ -1,0 +1,105 @@
+[**] [1:1000003:1] ALERT - SSH Brute Force [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-10:49:53.453325 192.168.255.129:37960 -> 192.168.255.128:22
+TCP TTL:64 TOS:0x0 ID:59848 IpLen:20 DgmLen:74 DF
+***AP*** Seq: 0x71A04921  Ack: 0x612DEBD4  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1462190568 3776706895 
+
+[**] [1:1000003:1] ALERT - SSH Brute Force [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-10:49:53.464750 192.168.255.129:37962 -> 192.168.255.128:22
+TCP TTL:64 TOS:0x0 ID:58646 IpLen:20 DgmLen:74 DF
+***AP*** Seq: 0x12DC1814  Ack: 0x1EEC21E4  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1462190580 3776706906 
+
+[**] [1:1000003:1] ALERT - SSH Brute Force [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-10:49:53.465674 192.168.255.129:37964 -> 192.168.255.128:22
+TCP TTL:64 TOS:0x0 ID:54954 IpLen:20 DgmLen:74 DF
+***AP*** Seq: 0x624EA36D  Ack: 0xF845F92D  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1462190581 3776706908 
+
+[**] [1:1000003:1] ALERT - SSH Brute Force [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-10:49:57.077166 192.168.255.129:37966 -> 192.168.255.128:22
+TCP TTL:64 TOS:0x0 ID:16893 IpLen:20 DgmLen:74 DF
+***AP*** Seq: 0xEF5E0015  Ack: 0xE7508E55  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1462194190 3776710508 
+
+[**] [1:1000003:1] ALERT - SSH Brute Force [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-10:49:57.183035 192.168.255.129:37968 -> 192.168.255.128:22
+TCP TTL:64 TOS:0x0 ID:7721 IpLen:20 DgmLen:74 DF
+***AP*** Seq: 0xBC23B685  Ack: 0x9535FF7F  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1462194305 3776710623 
+
+[**] [1:1000003:1] ALERT - SSH Brute Force [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-10:50:00.457457 192.168.255.129:37970 -> 192.168.255.128:22
+TCP TTL:64 TOS:0x0 ID:28498 IpLen:20 DgmLen:74 DF
+***AP*** Seq: 0x89CE9504  Ack: 0x543CFF4E  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1462197591 3776713900 
+
+[**] [1:1000003:1] ALERT - SSH Brute Force [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-10:50:00.504253 192.168.255.129:37972 -> 192.168.255.128:22
+TCP TTL:64 TOS:0x0 ID:5699 IpLen:20 DgmLen:74 DF
+***AP*** Seq: 0xA5FAFAD1  Ack: 0xF999CBED  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1462197638 3776713946 
+
+[**] [1:1000003:1] ALERT - SSH Brute Force [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-10:50:01.361151 192.168.255.129:37974 -> 192.168.255.128:22
+TCP TTL:64 TOS:0x0 ID:36313 IpLen:20 DgmLen:74 DF
+***AP*** Seq: 0x56860C9F  Ack: 0xB656EBB1  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1462198498 3776714803 
+
+[**] [1:1000003:1] ALERT - SSH Brute Force [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-10:50:04.651834 192.168.255.129:37976 -> 192.168.255.128:22
+TCP TTL:64 TOS:0x0 ID:3202 IpLen:20 DgmLen:74 DF
+***AP*** Seq: 0xC1259375  Ack: 0x7590AB85  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1462201799 3776718094 
+
+[**] [1:1000003:1] ALERT - SSH Brute Force [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-10:50:04.686530 192.168.255.129:37978 -> 192.168.255.128:22
+TCP TTL:64 TOS:0x0 ID:42957 IpLen:20 DgmLen:74 DF
+***AP*** Seq: 0x9D50399B  Ack: 0xD21F0BE0  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1462201834 3776718129 
+
+[**] [1:1000003:1] ALERT - SSH Brute Force [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-10:50:05.375034 192.168.255.129:37980 -> 192.168.255.128:22
+TCP TTL:64 TOS:0x0 ID:60130 IpLen:20 DgmLen:74 DF
+***AP*** Seq: 0x4910B94  Ack: 0xFFB8BE40  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1462202524 3776718817 
+
+[**] [1:1000003:1] ALERT - SSH Brute Force [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-10:50:06.856617 192.168.255.129:37982 -> 192.168.255.128:22
+TCP TTL:64 TOS:0x0 ID:34315 IpLen:20 DgmLen:74 DF
+***AP*** Seq: 0x69248E09  Ack: 0xEFEE4863  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1462204011 3776720299 
+
+[**] [1:1000003:1] ALERT - SSH Brute Force [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-10:50:06.892392 192.168.255.129:37984 -> 192.168.255.128:22
+TCP TTL:64 TOS:0x0 ID:16527 IpLen:20 DgmLen:74 DF
+***AP*** Seq: 0x4992684  Ack: 0xF7659233  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1462204045 3776720333 
+
+[**] [1:1000003:1] ALERT - SSH Brute Force [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-10:50:07.567639 192.168.255.129:37986 -> 192.168.255.128:22
+TCP TTL:64 TOS:0x0 ID:27754 IpLen:20 DgmLen:74 DF
+***AP*** Seq: 0x931B534B  Ack: 0x9193FA7D  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1462204724 3776721010 
+
+[**] [1:1000003:1] ALERT - SSH Brute Force [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-10:50:07.822092 192.168.255.129:37988 -> 192.168.255.128:22
+TCP TTL:64 TOS:0x0 ID:14610 IpLen:20 DgmLen:74 DF
+***AP*** Seq: 0xBC1CE8C6  Ack: 0x8B50A50C  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1462204980 3776721264 
+
